@@ -1,0 +1,13 @@
+tbody button{
+  margin: 0px;
+  height:28px;
+  width:28px;
+}
+#image-button{
+  margin-left: 100px;
+}
+
+.test{
+  display:inline-block;
+  margin:5px 0px 0px 11px;
+}
